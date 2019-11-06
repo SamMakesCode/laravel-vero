@@ -6,8 +6,8 @@
     "php": ">=7.1.0",
     "ext-json": "*",
     "ext-curl": "*",
-    "getvero/vero-php": "^1.0",
-    "illuminate/support": ">=5.0"
+    "illuminate/support": ">=5.0",
+    "samlittler/vero-php": "^1.0"
   },
   "license": "MIT",
   "authors": [
